@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
 
-<img src="../figures/email.png" width="10">
+<img src="../figures/email.png" width="50">
 
 Please contact us through one of the following methods:
 
