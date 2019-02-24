@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Financial Risk Manager (FRM®) Exam
+title: FRM® Exam
 ---
 
 <img src="../figures/garp_logo.png" width="25%">
