@@ -6,7 +6,7 @@ title: Introduction to Data Science
 <br><br><br>
 <img src="figures/data2action.gif" width="30%" alt="Site logo" align = "right" style="margin:0px 10px">
 Living in a paradoxical age, as *John Naisbitt* puts it,
-### We are drowning in data but starved for knowledge.
+### We are drowning in data, but starved for knowledge.
 
 Turning data to insights is probably the most prevalent challenge of the present age -- be it for individuals, businesses, or governments. Emergence of digital technologies made it unprecedentedly easy to collect data whereas the increase in computational power has been the greatest relief for handling massive data sets. What we are probably short of is the skills set to build state-of-the art models that can turn data to real wisdom.
 
