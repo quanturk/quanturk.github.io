@@ -3,7 +3,7 @@ layout: page
 title: Financial Risk Manager (FRM®) Exam
 ---
 
-<img src="../figures/garp_logo.png" width=25%>
+<img src="../figures/garp_logo.png" width="25%">
 
 #### "As the financial industry becomes increasingly competitive, the professionals who succeed are the ones who can demonstrate their ability to add value to an organization."
 
