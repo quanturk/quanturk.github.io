@@ -7,8 +7,6 @@ title: Financial Risk Manager (FRM®) Exam
 
 #### "As the financial industry becomes increasingly competitive, the professionals who succeed are the ones who can demonstrate their ability to add value to an organization."
 
-GARP posits.
-
 Financial Risk Professional (FRM) is known as "The global standard for financial risk." It is is the leading certification for risk managers and consistently in demand by major financial instituions, as well as firms dealing with risk management, around the world. FRM is awarded only to professionals who demonstrate the knowledge and ability to anticipate, respond, and adapt to critical risk issues.
 
 As the financial industry becomes increasingly competitive, the professionals who succeed are the ones who can demonstrate their ability to add value to an organization. Earning an FRM proves that your knowledge and skills are up to the latest international standards, and connects you to an elite network of expert risk professionals employed by the world’s leading institutions. For more information, visit [FRM Website](https://www.garp.org/#!/frm).
