@@ -15,7 +15,7 @@ As the financial industry becomes increasingly competitive, the professionals wh
 
 QUANTURK is one of [Exam Prep Providers](https://www.garp.org/#!/frm/exam-preparation-providers) approved by GARP. 
 
-*Just as a reminder "GARP does not endorse, promote, review, or warrant the accuracy or the products or services offered by QUANTURK of FRM-related information. Nor does it endorse pass rates claimed by any Exam Preparation Provider. Further, GARP is not responsible for any fees or costs paid by the user to QUANTURK."*
+Just as a reminder "*GARP does not endorse, promote, review, or warrant the accuracy or the products or services offered by QUANTURK of FRM-related information. Nor does it endorse pass rates claimed by any Exam Preparation Provider. Further, GARP is not responsible for any fees or costs paid by the user to QUANTURK.*"
 
 #### Course Description
 The course aims to help participants get prepared for the FRM 2017 Exam Part I as effectively as possible and pass it on their first attempt. The course will also seek to provide candidates a thorough hands-on guidance in their studies.
@@ -24,8 +24,7 @@ The course aims to help participants get prepared for the FRM 2017 Exam Part I a
 This is a 12-week course comprising weekly classes that cover all FRM 2017 Exam Part I topics. The course will feature various active learning activities and practice/mock exams to improve the success rate. The classes will be provided over weekends and/or evening hours during weekdays. Weekly course load will be 6-8 hours (72-96 class hours in total).
 
 #### Learning Objectives 
-See GARP Learning Objectives document for FRM 2017 (www.garp.org).
-
+See GARP Learning Objectives document for FRM 2019 (www.garp.org).
 
 #### Teaching Method
 * Classroom Lectures
