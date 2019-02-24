@@ -5,8 +5,8 @@ title: Introduction to Data Science
 
 <br><br><br>
 <img src="figures/data2action.gif" width="30%" alt="Site logo" align = "right" style="margin:0px 10px">
-### We're living in a paradoxical age where "we are drowning in data but starving for knowledge."
-*(John Naisbitt)*
+We're living in a paradoxical age where (as John Naisbitt puts it) 
+#### "We are drowning in data but starving for knowledge."
 
 QUANTURK's overarching aim is to put data analytics and machine intelligence to work for developing optimal investment streategies for all possible frequencies (low, mid and high).
 
