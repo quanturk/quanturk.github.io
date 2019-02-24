@@ -1,6 +1,13 @@
 ---
 layout: page
-title: Training
+title: Contact
 ---
 
-Being constructed.
+Please contact us through one of the following methods:
+
+### Email us for questions related to
+
+* Our FRM-Course: [frm@quanturk.org](mailto:frm@quanturk.org)
+* QUANTURK services: [infor@quanturk.org](mailto:info@quanturk.org)  
+
+### Or, fill out [this form]() 
