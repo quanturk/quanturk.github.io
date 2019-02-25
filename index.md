@@ -10,7 +10,7 @@ Living in a paradoxical age, as *John Naisbitt* puts it,
 
 Turning data to insights is probably the most prevalent challenge of the present age -- be it for individuals, businesses, or governments. Emergence of digital technologies made it unprecedentedly easy to collect data whereas the increase in computational power has been the greatest relief for handling massive data sets. What we are probably short of is the skills set to build state-of-the art models that can turn data to real wisdom.
 
-QUANTURK's overarching goal is to put quantitative tools such as data analytics and machine intelligence to work for **predicting future** with highest possible accuracy. This can range from predicting financial markets for finding optimal investment opportunities that matches the desired risk/return profile of an investor, to estimating the risk of retinal hemorrhage in a patient with diabetic retinopathy. 
+QUANTURK's overarching goal is to put quantitative tools such as data analytics and machine intelligence to work for **predicting future** with highest possible accuracy. This can range from predicting financial markets for finding optimal investment strategies that match the desired risk/return profile of an investor, to estimating the risk of retinal hemorrhage in a patient with diabetic retinopathy. 
 
 #### Quantitative Finance for Professionals (QFP)
 
