@@ -13,7 +13,7 @@ As the financial industry becomes increasingly competitive, the professionals wh
 
 QUANTURK is one of [Exam Prep Providers](https://www.garp.org/#!/frm/exam-preparation-providers) approved by GARP. 
 
-Just as a reminder "*GARP does not endorse, promote, review, or warrant the accuracy or the products or services offered by QUANTURK of FRM-related information. Nor does it endorse pass rates claimed by any Exam Preparation Provider. Further, GARP is not responsible for any fees or costs paid by the user to QUANTURK.*"
+Just as a reminder "*GARP does not endorse, promote, review or warrant the accuracy of the products or services offered by [the Exam Prep Provider shall insert its name here] of GARP Exam related information, nor does it endorse any pass rates that may be claimed by [the Exam Prep Provider shall insert its name here]. Further, GARP is not responsible for any fees or costs paid by the user to [the Exam Prep Provider shall insert its name here] nor is GARP responsible for any fees or costs of any person or entity providing any services to [the Exam Prep Provider shall insert its name here]. ERP®, FRM®, GARP® and Global Association of Risk Professionals™, in standard character and/or stylized form, are trademarks owned by the Global Association of Risk Professionals, Inc.*"
 
 #### Course Description
 The course aims to help participants get prepared for the FRM 2017 Exam Part I as effectively as possible and pass it on their first attempt. The course will also seek to provide candidates a thorough hands-on guidance in their studies.
