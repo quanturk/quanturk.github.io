@@ -14,7 +14,7 @@ QUANTURK's overarching goal is to put quantitative tools such as data analytics 
 
 #### Quantitative Finance for Professionals (QFP)
 
-QFP as part of QUANTURK is a capacity building initiative and continuously updated training programme that is tailored to the everyday needs of finance professionals. It comprises several quantitative skills courses which are taught by qualified financial mathematicians in a simple language. QFP pursues a balance between theory and practice, and it aims to bridge the gap between finance practitioners and state-of-the-art quantitative finance tools. The Programme is envisioned to be a one-stop-shop for finance practitioners where they can acquire the most essential technical skills -- be it risk management, portfolio optimization, asset pricing or making predictions.
+QFP as part of QUANTURK is a capacity building initiative and continuously updated training programme that is tailored to the everyday needs of finance professionals. It comprises several quantitative skills courses which are taught by qualified financial mathematicians in a simple language. QFP pursues a balance between theory and practice, and it aims to bridge the gap between finance practitioners and state-of-the-art quantitative finance tools. The Programme is envisioned to be a one-stop-shop for finance practitioners where they can acquire the most essential technical skills -- be it risk management, portfolio optimization, asset pricing or building predictive models.
 
 
 
