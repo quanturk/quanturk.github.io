@@ -11,7 +11,7 @@ Financial Risk Professional (FRM) is known as "The global standard for financial
 
 As the financial industry becomes increasingly competitive, the professionals who succeed are the ones who can demonstrate their ability to add value to an organization. Earning an FRM proves that your knowledge and skills are up to the latest international standards, and connects you to an elite network of expert risk professionals employed by the world’s leading institutions. For more information, visit [FRM Website](https://www.garp.org/#!/frm).
 
-QUANTURK is one of [Exam Prep Providers](https://www.garp.org/#!/frm/exam-preparation-providers) approved by GARP. 
+QUANTURK is one of the [Exam Prep Providers](https://www.garp.org/#!/frm/exam-preparation-providers) approved by GARP. 
 
 Just as a reminder "*GARP does not endorse, promote, review or warrant the accuracy of the products or services offered by QUANTURK of GARP Exam related information, nor does it endorse any pass rates that may be claimed by QUANTURK. Further, GARP is not responsible for any fees or costs paid by the user to QUANTURK nor is GARP responsible for any fees or costs of any person or entity providing any services to QUANTURK. ERP®, FRM®, GARP® and Global Association of Risk Professionals™, in standard character and/or stylized form, are trademarks owned by the Global Association of Risk Professionals, Inc.*"
 
