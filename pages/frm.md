@@ -19,7 +19,7 @@ Just as a reminder "*GARP does not endorse, promote, review or warrant the accur
 The course aims to help participants get prepared for the FRM 2017 Exam Part I as effectively as possible and pass it on their first attempt. The course will also seek to provide candidates a thorough hands-on guidance in their studies.
 
 #### Program Structure
-This is a 12-week course comprising weekly classes that cover all FRM 2017 Exam Part I topics. The course will feature various active learning activities and practice/mock exams to improve the success rate. The classes will be provided over weekends and/or evening hours during weekdays. Weekly course load will be 6-8 hours (72-96 class hours in total).
+This is a 8- to 12-week course (depending on class profile) comprising weekly classes that cover all FRM 2017 Exam Part I topics. The course will feature various active learning activities and practice/mock exams to improve the success rate. The classes will be provided over weekends and/or evening hours during weekdays. Weekly course load will be 4 to 8 hours.
 
 #### Learning Objectives 
 See GARP Learning Objectives document for FRM 2019 (www.garp.org).
