@@ -12,4 +12,4 @@ Please contact us through one of the following methods:
 * Our FRM course: [frm@quanturk.org](mailto:frm@quanturk.org)
 * QUANTURK services: [info@quanturk.org](mailto:info@quanturk.org)  
 
-#### Or, fill out [this form]() 
+#### Or, fill out [this form](https://goo.gl/forms/nrqEv1LzeUD4uGLj1) 
