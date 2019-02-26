@@ -2,7 +2,7 @@
 layout: page
 title: FRM® Exam Prep Course
 ---
-<link href="style.css" rel="stylesheet"></link>
+(setq markdown-css-paths '("style.css"))
 
 #### <p class="blink"><a href="https://goo.gl/forms/rH3dwGLogneSBw8V2">If you're sitting for May 2019 Exam Part I, please click here!</a></p>
 
