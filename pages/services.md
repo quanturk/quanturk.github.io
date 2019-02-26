@@ -5,12 +5,12 @@ title: Services
 
 QUANTURK has three main areas of focus:
 
-## Capacity Building
+### Capacity Building
 
-## Research
+### Research
 
-## Advisory
+### Advisory
 
-## UI Development
+### UI Development
 
 
