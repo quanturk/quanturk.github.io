@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Introduction to Data Science
+title: QUANTURK
 ---
 
 <br><br><br>
