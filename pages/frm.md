@@ -3,7 +3,7 @@ layout: page
 title: FRM® Exam Prep Course
 ---
 
-#### <a href="https://goo.gl/forms/rH3dwGLogneSBw8V2">>> If you're sitting for May 2019 Exam Part I, please click here!</a>
+#### <a href="https://goo.gl/forms/rH3dwGLogneSBw8V2">>> If you're sitting for FRM Exam Part I, please click here!</a>
 
 <img src="../figures/garp_logo.png" width="25%">
 
