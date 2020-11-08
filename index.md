@@ -4,7 +4,7 @@ title: QUANTURK
 ---
 
 <br><br><br>
-<img src="figures/data2action.gif" width="30%" alt="Site logo" align = "right" style="margin:0px 10px">
+<img src="figures/front.jpg" width="30%" alt="Site logo" align = "right" style="margin:0px 10px">
 
 **QUANTURK**'s aim is to put state-of-the-art quantitative tools such as data analytics and machine intelligence to work and bridge the gap between academia and industry. This can range from predicting financial markets for finding optimal investment strategies that match the desired risk/return profile of an investor, to estimating the risk of retinal hemorrhage in a patient with diabetic retinopathy. 
 
@@ -20,7 +20,7 @@ QFP as part of QUANTURK is a capacity building initiative and continuously updat
 
 Recognized in leading institutions in many countries, the FRM is the flagship certification for current and prospective risk managers. It is consistently in demand by not only by financial institutions but also real-sector companies who need to manage various risks arising from their operations. FRM curriculum is continuously updated to keep abreast of most recent developments and the certification is awarded only to professionals who demonstrate both the knowledge and ability to anticipate, respond, and adapt to critical risk issues. For more information about FRM, please visit [www.garp.org/frm](www.garp.org/frm).
 
-As an **Exam Preparation Provider (EPP)** approved by GARP, QUANTURK is offering online courses towards the FRM exam. For more information about FRM course, please visit [here](https://quanturk.github.io/pages/frm.html).
+As an **Exam Preparation Provider (EPP)** approved by GARP, we are offering online courses towards the FRM exam. For more information about FRM course, please visit [here](https://quanturk.github.io/pages/frm.html).
 
 
 
