@@ -16,6 +16,10 @@ Turning data to insights is probably the most prevalent challenge of the present
 
 QFP as part of QUANTURK is a capacity building initiative and continuously updated training programme that is tailored to the everyday needs of finance professionals. It comprises several quantitative skills courses which are taught by qualified financial mathematicians in a simple language. QFP pursues a balance between theory and practice, and it aims to bridge the gap between finance practitioners and state-of-the-art quantitative finance tools. The Programme is envisioned to be a one-stop-shop for finance practitioners where they can acquire the most essential technical skills -- be it risk management, portfolio optimization, asset pricing or building predictive models.
 
+#### Financial Risk Manager (FRM) by GARP
+
+Recognized in leading institutions in many countries, the FRM is the flagship certification for current and prospective risk managers. It is consistently in demand by not only by financial institutions but also real-sector companies who need to manage various risks arising from their operations. FRM curriculum is continuously updated to keep abreast of most recent developments and the certification is awarded only to professionals who demonstrate both the knowledge and ability to anticipate, respond, and adapt to critical risk issues.
+
 
 
 
