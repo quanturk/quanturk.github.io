@@ -4,11 +4,12 @@ title: QUANTURK
 ---
 
 <br><br><br>
-<img src="figures/front.jpg" width="35%" alt="Site logo" align = "right" style="margin:0px 10px">
 
 ### Who we are
 
 **QUANTURK**'s aim is to put state-of-the-art quantitative tools such as data analytics and machine intelligence to work and bridge the gap between academia and industry. This can range from predicting financial markets for finding optimal investment strategies that match the desired risk/return profile of an investor, to estimating the risk of retinal hemorrhage in a patient with diabetic retinopathy. 
+
+<img src="figures/front.jpg" width="35%" alt="Site logo" align = "right" style="margin:0px 10px">
 
 ##### "*We are drowning in data, but starved for knowledge*".
 
