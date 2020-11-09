@@ -4,7 +4,7 @@ title: QUANTURK
 ---
 
 <br><br><br>
-<img src="figures/front.jpg" width="40%" alt="Site logo" align = "right" style="margin:0px 5px">
+<img src="figures/front.jpg" width="40%" alt="Site logo" align = "right" style="margin:5px 5px">
 
 ### Who we are
 
