@@ -3,7 +3,7 @@ layout: page
 title: FRM® Exam Prep Course
 ---
 
-#### <a href="https://goo.gl/forms/rH3dwGLogneSBw8V2">>> If you're sitting for FRM Exam Part I, please click here!</a>
+#### <a href="https://goo.gl/forms/rH3dwGLogneSBw8V2">>> If you're sitting for the upcoming FRM Exam, please click here!</a>
 
 <img src="../figures/garp_logo.png" width="25%">
 
@@ -18,10 +18,10 @@ QUANTURK is one of the [Exam Prep Providers](https://www.garp.org/#!/frm/exam-pr
 "*GARP does not endorse, promote, review or warrant the accuracy of the products or services offered by QUANTURK of GARP Exam related information, nor does it endorse any pass rates that may be claimed by QUANTURK. Further, GARP is not responsible for any fees or costs paid by the user to QUANTURK nor is GARP responsible for any fees or costs of any person or entity providing any services to QUANTURK. ERP®, FRM®, GARP® and Global Association of Risk Professionals™, in standard character and/or stylized form, are trademarks owned by the Global Association of Risk Professionals, Inc.*"
 
 #### Course Description
-The course aims to help participants get prepared for the FRM 2019 Exam Part I as effectively as possible and pass it on their first attempt. The course will also seek to provide candidates a thorough hands-on guidance in their studies.
+The course aims to help participants get prepared for the upcoming FRM Exam (Part I) as effectively as possible and pass it on their first attempt. The course will also seek to provide candidates a thorough hands-on guidance in their studies.
 
 #### Program Structure
-This is a 8- to 12-week course (depending on class profile) comprising weekly classes that cover all FRM 2019 Exam Part I topics. The course will feature various active learning activities and practice/mock exams to improve the success rate. The classes will be provided over weekends and/or evening hours during weekdays. Weekly course load will be 4 to 8 hours.
+This is a 10-week course comprising weekly online classes that cover all FRM Exam (Part I) topics. The course will feature various active learning activities and practice/mock exams to improve the success rate. Weekly course load will be 4 to 8 hours depending on the candidate's background.
 
 #### Learning Objectives 
 See GARP Learning Objectives document for FRM 2019 ([www.garp.org](https://www.garp.org)).
