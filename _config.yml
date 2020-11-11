@@ -15,7 +15,7 @@ author:
   github: 
   twitter:
   feedburner: nil
-#baseurl: ""
+baseurl: ""
 #url: "https://datasciencelabs.github.io"
 production_url: "http://quanturk.github.io"
 
