@@ -3,7 +3,7 @@ layout: page
 title: FRM® Exam Prep Course
 ---
 
-#### <a href="https://goo.gl/forms/rH3dwGLogneSBw8V2">>> If you're sitting for the upcoming FRM Exam, please click here!</a>
+#### <a href="https://forms.gle/VsLxXkYJRd52pmqp8" target=www>>> If you're sitting for the upcoming FRM Exam, please click here!</a>
 
 <img src="../figures/garp_logo.png" width="25%">
 
