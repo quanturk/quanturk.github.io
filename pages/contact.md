@@ -7,11 +7,6 @@ title: Contact
 
 Please contact us through one of the following methods:
 
-#### Email us for questions related to
+#### Email us at [serhan.aydin@metu.edu.tr](mailto:serhan.aydin@metu.edu.tr)
 
-* Our FRM course: [frm@quanturk.org](mailto:frm@quanturk.org)
-* QUANTURK services: [info@quanturk.org](mailto:info@quanturk.org)  
-
-#### Or, fill out [this form](https://goo.gl/forms/nrqEv1LzeUD4uGLj1)
-
-* For general inquiries
+#### Or fill out [this form](https://goo.gl/forms/nrqEv1LzeUD4uGLj1)
