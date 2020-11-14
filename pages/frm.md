@@ -25,7 +25,7 @@ This is a 10-week course comprising weekly online classes that cover all FRM Exa
 
 #### Learning Objectives and Study Guides
 
-[<img src="../figures/lobj2020.png" width="15%">](../materials/FRMLOBS_122019_WEB_FINAL)<img src="../figures/sguide2020.png" width="15%"><img src="../figures/sguidec2020.png" width="15%">
+[<img src="../figures/lobj2020.png" width="15%">](../material/FRMLOBS_122019_WEB_FINAL.pdf)<img src="../figures/sguide2020.png" width="15%"><img src="../figures/sguidec2020.png" width="15%">
 
 
 #### Teaching Method
