@@ -9,7 +9,7 @@ title: FRM® Exam Prep Course 2021
 
 #### "As the financial industry becomes increasingly competitive, the professionals who succeed are the ones who can demonstrate their ability to add value to an organization."
 
-Financial Risk Professional (FRM) is known as "The global standard for financial risk." It is is the leading certification for risk managers and consistently in demand by major financial instituions, as well as firms dealing with risk management, around the world. FRM is awarded only to professionals who demonstrate the knowledge and ability to anticipate, respond, and adapt to critical risk issues.
+Financial Risk Professional (FRM) is known as "The global standard for financial risk." It is is the leading certification for risk managers and consistently in demand by major financial institutions, as well as firms dealing with risk management, around the world. FRM is awarded only to professionals who demonstrate the knowledge and ability to anticipate, respond, and adapt to critical risk issues.
 
 As the financial industry becomes increasingly competitive, the professionals who succeed are the ones who can demonstrate their ability to add value to an organization. Earning an FRM proves that your knowledge and skills are up to the latest international standards, and connects you to an elite network of expert risk professionals employed by the world’s leading institutions. For more information, visit [FRM Website](https://www.garp.org/#!/frm).
 
@@ -24,7 +24,9 @@ The course aims to help participants get prepared for the upcoming FRM Exam (Par
 This is a 10-week course comprising weekly online classes that cover all FRM Exam (Part I) topics. The course will feature various active learning activities and practice/mock exams to improve the success rate. Weekly course load will be 4 to 8 hours depending on the candidate's background.
 
 #### Learning Objectives 
-See GARP Learning Objectives document for FRM 2021 ([www.garp.org](https://www.garp.org)).
+
+<img src="../figures/lo2020.png" width="25%">
+
 
 #### Teaching Method
 * Classroom Lectures
@@ -38,5 +40,5 @@ Course fee is only **inclusive** of the class lectures, mock exams, and other ha
 #### Returning Candidates
 A candidate who fails the real exam may be allowed to re-sit the course for free given both his/her attendance in the course and average performance in the Interim Exams have been 80% or over.
 <br>
-<iframe src="https://calendar.google.com/calendar/b/1/embed?mode=AGENDA&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=ugs8vuds3btmj0g13bhjospkc4%40group.calendar.google.com&amp;color=%23865A5A&amp;ctz=Europe%2FIstanbul" style="border-width:0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/b/1/embed?mode=AGENDA&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=ugs8vuds3btmj0g13bhjospkc4%40group.calendar.google.com&amp;color=%23865A5A&amp;ctz=Europe%2FIstanbul" style="border-width:0" width="100%" height="300" frameborder="0" scrolling="no"></iframe>
 
