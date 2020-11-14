@@ -1,11 +1,9 @@
 ---
 layout: page
-title: FRM® Exam Prep Course
+title: FRM® Exam Prep Course 2021
 ---
 
 #### <a href="https://forms.gle/VsLxXkYJRd52pmqp8" target=www>>> If you're sitting for the upcoming FRM Exam, please click here!</a>
-
-#### <a href="https://forms.gle/VsLxXkYJRd52pmqp8" target=www>>> Latest "Learning Objectives" and "Study Guide"</a>
 
 <img src="../figures/garp_logo.png" width="25%">
 
@@ -26,7 +24,7 @@ The course aims to help participants get prepared for the upcoming FRM Exam (Par
 This is a 10-week course comprising weekly online classes that cover all FRM Exam (Part I) topics. The course will feature various active learning activities and practice/mock exams to improve the success rate. Weekly course load will be 4 to 8 hours depending on the candidate's background.
 
 #### Learning Objectives 
-See GARP Learning Objectives document for FRM 2019 ([www.garp.org](https://www.garp.org)).
+See GARP Learning Objectives document for FRM 2021 ([www.garp.org](https://www.garp.org)).
 
 #### Teaching Method
 * Classroom Lectures
