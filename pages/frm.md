@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FRM® Exam Prep Course 2021 (Online)
+title: FRM® Exam Prep Course (Online)
 ---
 
 #### <a href="https://forms.gle/VsLxXkYJRd52pmqp8" target=www>>> If you're sitting for the upcoming FRM Exam, please click here!</a>
