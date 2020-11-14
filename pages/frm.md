@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FRM® Exam Prep Course 2021
+title: FRM® Exam Prep Course 2021 (Online)
 ---
 
 #### <a href="https://forms.gle/VsLxXkYJRd52pmqp8" target=www>>> If you're sitting for the upcoming FRM Exam, please click here!</a>
@@ -29,10 +29,12 @@ This is a 10-week course comprising weekly online classes that cover all FRM Exa
 
 
 #### Teaching Method
-* Classroom Lectures
-* Active Learning Exercises
+The course will put more emphasis on quantitative parts of the exam which are more difficult to grasp with independent study. Textual parts will be covered through scheduled reading assignments and self-check quizzes.
+
+* Asynchronous & Synchronous Sessions
+* Slides, Handouts, Readings
+* Quizzes & Problem Solving
 * Interim Practice Exams
-* Lecture Slides (as possible) and Handouts
 
 #### Pricing
 Course fee is only **inclusive** of the class lectures, mock exams, and other handouts (if any). **Licensed exam study materials or real exam registration fees are not part of the course fee**. 
