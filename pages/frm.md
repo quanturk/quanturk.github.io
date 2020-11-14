@@ -5,7 +5,7 @@ title: FRM® Exam Prep Course
 
 #### <a href="https://forms.gle/VsLxXkYJRd52pmqp8" target=www>>> If you're sitting for the upcoming FRM Exam, please click here!</a>
 
-#### <font color="#660033"><a href="https://forms.gle/VsLxXkYJRd52pmqp8" target=www>>> Latest FRM Exam Material (2021)</a></font>
+#### <a href="https://forms.gle/VsLxXkYJRd52pmqp8" target=www>>> Latest "Learning Objectives" and "Study Guide"</a>
 
 <img src="../figures/garp_logo.png" width="25%">
 
