@@ -23,7 +23,7 @@ The course aims to help participants get prepared for the upcoming FRM Exam (Par
 #### Program Structure
 This is a 10-week course comprising weekly online classes that cover all FRM Exam (Part I) topics. The course will feature various active learning activities and practice/mock exams to improve the success rate. Weekly course load will be 4 to 8 hours depending on the candidate's background.
 
-#### Learning Objectives 
+#### Learning Objectives and Study Guides
 
 [<img src="../figures/lobj2020.png" width="15%">](../materials/FRMLOBS_122019_WEB_FINAL)<img src="../figures/sguide2020.png" width="15%"><img src="../figures/sguidec2020.png" width="15%">
 
