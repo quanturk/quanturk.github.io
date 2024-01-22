@@ -25,7 +25,9 @@ This is a 10-week course comprising weekly online classes that cover all FRM Exa
 
 #### Learning Objectives and Study Guides
 
-[<img src="../figures/lobj2021.png" width="14%">](../material/FRM_LOBs_111320-Final.pdf)  [<img src="../figures/sguide2021.png" width="14%">](../material/FRM_StudyGuide_092520.pdf)  [<img src="../figures/sguidec2021.png" width="14%">](../material/FRM_StudyGuideChanges_092520.pdf) [<img src="../figures/lobj2020.png" width="15%">](../material/FRMLOBS_122019_WEB_FINAL.pdf) [<img src="../figures/sguide2020.png" width="15%">](../material/FRMSG_122019_WEB_FINAL.pdf) [<img src="../figures/sguidec2020.png" width="15%">](../material/FRMSGC_120619_WEB.pdf)
+[<img src="../figures/lobj2024.png" width="14%">](../material/Learning-Objectives-FRM24.pdf)[<img src="../figures/sguide2024.png" width="14%">](../material/Study-Guide-FRM24.pdf)
+<br>
+[<img src="../figures/lobj2021.png" width="14%">](../material/FRM_LOBs_111320-Final.pdf)[<img src="../figures/sguide2021.png" width="14%">](../material/FRM_StudyGuide_092520.pdf)  [<img src="../figures/sguidec2021.png" width="14%">](../material/FRM_StudyGuideChanges_092520.pdf) [<img src="../figures/lobj2020.png" width="15%">](../material/FRMLOBS_122019_WEB_FINAL.pdf) [<img src="../figures/sguide2020.png" width="15%">](../material/FRMSG_122019_WEB_FINAL.pdf) [<img src="../figures/sguidec2020.png" width="15%">](../material/FRMSGC_120619_WEB.pdf)
 
 
 #### Teaching Method
