@@ -42,6 +42,7 @@ Course fee is only **inclusive** of the class lectures, mock exams, and other ha
 #### Returning Candidates
 A candidate who fails the real exam may be allowed to re-sit the course for free given both his/her attendance in the course and average performance in the Interim Exams have been 80% or over.
 
+#### FRM Exam Important Dates
 <img src="../figures/2024_may_dates.png" width="33%"><img src="../figures/2024_aug_dates.png" width="33%"><img src="../figures/2024_nov_dates.png" width="33%">
 
 <br>
