@@ -42,5 +42,5 @@ Course fee is only **inclusive** of the class lectures, mock exams, and other ha
 #### Returning Candidates
 A candidate who fails the real exam may be allowed to re-sit the course for free given both his/her attendance in the course and average performance in the Interim Exams have been 80% or over.
 <br>
-<iframe src="https://calendar.google.com/calendar/b/1/embed?mode=AGENDA&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=ugs8vuds3btmj0g13bhjospkc4%40group.calendar.google.com&amp;color=%23865A5A&amp;ctz=Europe%2FIstanbul" style="border-width:0" width="100%" height="300" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/b/1/embed?mode=MONTH&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=ugs8vuds3btmj0g13bhjospkc4%40group.calendar.google.com&amp;color=%23865A5A&amp;ctz=Europe%2FIstanbul" style="border-width:0" width="100%" height="300" frameborder="0" scrolling="no"></iframe>
 
